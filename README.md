@@ -22,7 +22,8 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/linux-jin/Link-up-tg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/linux-jin/SELF-TG-LINK2FILE-BOT
+)
 
 #### Run in your VPS
 
